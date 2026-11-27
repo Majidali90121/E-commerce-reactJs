@@ -1,7 +1,10 @@
-
+# fly.toml app configuration file generated for e-commerce-reactjs-szmhta on 2026-11-27T14:59:35Z
+#
+# See https://docs.fly.io/reference/configuration for information about how to use this file.
+#
 
 app = 'e-commerce-reactjs-szmhta'
-primary_region = 'iad'
+primary_region = 'sin'
 
 [build]
   dockerfile = 'Dockerfile'
